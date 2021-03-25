@@ -9,6 +9,7 @@ namespace ElevenNote.Data
 {
     public class Category
     {
+        
         [Key]
         public int CategoryId { get; set; }
 
